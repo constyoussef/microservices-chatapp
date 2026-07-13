@@ -1,1 +1,1 @@
-# Microservices Chat App using NestJS
+# Microservices Chat App
